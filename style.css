@@ -1,0 +1,30 @@
+h1{
+    color: aquamarine;
+
+
+
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+body{
+    background-color:black;
+}
+
+h1{
+    color: rgb(153, 0, 255);
+}
+
+button{
+
+    background-color: black;
+    color: red;
+    border-radius: 56px;
+    border: 2px solid #fff;
+
+}
